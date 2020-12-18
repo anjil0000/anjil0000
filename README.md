@@ -24,7 +24,7 @@
 [website]: https://codeSTACKr.com
 [lavish]: https://lavish-css-framework.vercel.app/
 [twitter]: https://twitter.com/anjil0000
-[facebook]: https://facebook.com/anjil.bishowkarma
+[facebook]: https://facebook.com/anjil0000
 [instagram]: https://instagram.com/anjil0000_
 [linkedin]: https://linkedin.com/in/anjil0000
 
