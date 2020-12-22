@@ -7,7 +7,7 @@
 
 - 🔭 I lunched my CSS Framework: [lavish] Docs not ready yet :P
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Full Stack: MEARN
+- 🥅 TypeScript - ElectronJS - NextJS - ReactNative - MongoDB - ExpressJS
 - ⚡ Skills: I know Many.
 
 
