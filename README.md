@@ -21,7 +21,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+[website]: https://anjil.me
 [lavish]: https://lavish-css-framework.vercel.app/
 [twitter]: https://twitter.com/anjil0000
 [facebook]: https://facebook.com/anjil0000
