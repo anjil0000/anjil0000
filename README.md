@@ -22,7 +22,7 @@
 ---
 
 [website]: https://anjil.me
-[lavish]: lavish.anjil0000.vercel.app
+[lavish]: https://lavish.anjil0000.vercel.app
 [twitter]: https://twitter.com/anjil0000
 [facebook]: https://facebook.com/anjil0000
 [instagram]: https://instagram.com/anjil0000_
