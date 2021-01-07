@@ -21,7 +21,7 @@
 
 ---
 
-[website]: https://anjil.me
+[website]: http://anjilbishowkarma.com.np/
 [lavish]: https://lavish.anjil0000.vercel.app
 [twitter]: https://twitter.com/anjil0000
 [facebook]: https://facebook.com/anjil0000
